@@ -1,4 +1,2 @@
 # Luffy
-* how to create
-** what
-// where
+## Enna seiya
